@@ -9,7 +9,9 @@ O projeto consiste em um sistema de batalha simples com os seguintes conceitos:
 - Métodos personalizados: Cada classe possui métodos próprios, como healar para o Mago e muda_posicao para o Guerreiro.
 
 <h3>Classes Implementadas</h3>
-<br>- Character: Classe base que define os atributos e o método de ataque comum a todos os personagens.
+O projeto teve classes com informações fictícias:
+
+- Character: Classe base que define os atributos e o método de ataque comum a todos os personagens.
 - Thief: Classe que herda de Character e duplica o dano ao atacar.
 - Mage: Classe que herda de Character, utiliza magia para causar dano e pode curar outros personagens.
 - Warrior: Classe que herda de Character, possui um escudo e pode alternar entre modos de ataque e defesa.
